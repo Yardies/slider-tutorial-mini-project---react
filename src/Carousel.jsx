@@ -3,7 +3,7 @@ import { FaQuoteRight } from 'react-icons/fa'
 import Slider from 'react-slick'
 import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
-import { list } from '../final/src/data'
+import { list } from './data'
 
 export const Carousel = () => {
   var settings = {
